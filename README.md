@@ -1,8 +1,5 @@
-<p align="center">
-  Backend/Cloud Engineer
-</p>
 
----
+ ## Backend/Cloud Engineer
 
 ## 🧑‍💻 About Me
 
@@ -23,10 +20,11 @@
 ---
 ## 🛠️ Projects
 
+
 ---
 ## 💬 Contact
 
 - 📬 Email: ksm92038386@gmail.com  
-- 📝 Blog: [https://your-blog.com][(https://your-blog.com) ](https://velog.io/@notura/posts) 
+- 📝 Blog: https://velog.io/@notura/posts
 
 
