@@ -20,7 +20,6 @@
 ---
 ## 🛠️ Projects
 - 학교 축제 앱 서비스 : https://github.com/erica-likelion/spring-festival-server
-- We-Meet 클라우드 교육용 챗봇 개발
 ---
 ## 💬 Contact
 
