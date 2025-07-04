@@ -4,7 +4,6 @@
 ## 🧑‍💻 About Me
 
 - HYU ERICA Computer Science
----
 
 ## 🛠 Skills
 
