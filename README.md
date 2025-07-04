@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
-
----
-## 🛠️ Projects
-- 학교 축제 앱 서비스 : https://github.com/erica-likelion/spring-festival-server
 ---
 ## 💬 Contact
 - 📬 Email: ksm92038386@gmail.com  
