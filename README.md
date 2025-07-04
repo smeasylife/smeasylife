@@ -1,5 +1,5 @@
 
- ## Backend/Cloud Engineer
+ ## Backend Engineer
 
 ## 🧑‍💻 About Me
 
